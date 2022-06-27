@@ -1,4 +1,4 @@
-package unifacs_nota;
+package Estruturas_de_controle;
 
 import java.util.Scanner;
 
