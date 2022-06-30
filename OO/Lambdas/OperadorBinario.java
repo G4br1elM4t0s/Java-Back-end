@@ -14,6 +14,9 @@ public class OperadorBinario {
             return notaFinal >= 7 ? "Aprovado" : "Reprovado";
         };
 
+
+        System.out.println(resultado.apply(7.8, 3.2));
+
        
     }
 }
